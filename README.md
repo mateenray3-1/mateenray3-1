@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**mateenray3-1/mateenray3-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Muhammad Mateen Rasool! 👋
 
-Here are some ideas to get you started:
+### 🎓 Computer Science Graduate | Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Computer Science graduate from Government College University Faisalabad (CGPA: 3.21).
+
+I enjoy building web applications, solving technical problems, and exploring new technologies.
+
+### 💻 Technical Skills
+- **Programming:** PHP, JavaScript, SQL
+- **Frontend:** HTML5, CSS3
+- **Database:** MySQL
+- **Tools:** XAMPP
+- **Development:** CRUD Operations, Web Applications, Database Management
+
+### 🚀 Featured Project
+
+**Online Inventory Control System**
+
+Developed a web-based inventory management system using PHP, MySQL, HTML, CSS, and JavaScript.
+
+**Key Features:**
+- Secure Login & User Authentication
+- Role-Based Access Control
+- Product & Inventory Management
+- Stock Tracking
+- Order Management
+- Admin Dashboard & Sales Reports
+
+### 🌱 Currently Exploring
+- Python 
+- Artificial Intelligence
+- Modern Software Development
+
+### 🎯 Career Goals
+Seeking internship and entry-level opportunities in software development to gain industry experience and strengthen my technical skills.
+
+### 📫 Connect With Me
+- **LinkedIn:** [Muhammad Mateen Rasool](https://www.linkedin.com/in/muhammad-mateen-rasool-3b2183451/)
